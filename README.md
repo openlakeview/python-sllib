@@ -56,3 +56,6 @@ tox -e py39
 # before committing please run lint and fix any issues
 tox -e lint
 ```
+
+Packaging could for example be done as described in
+https://realpython.com/pypi-publish-python-package/
